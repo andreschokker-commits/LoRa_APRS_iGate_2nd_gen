@@ -6,7 +6,7 @@
             "timeout": 10
         },
         "AP": [
-            {"ssid":"replace_with_your_wifi","password":"replace_with_your_password"}
+            {"ssid":Zuid-Limburg,"password":Pb-0-zlb}
         ]
     },
     "beacon": {
